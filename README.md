@@ -1,1 +1,1 @@
-# Machine_Learning
+# Machine Learning alanında yaptığım çalışmalardır.
