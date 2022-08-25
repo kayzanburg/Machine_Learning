@@ -1,1 +1,1 @@
-# Machine Learning alanında yaptığım çalışmalardır.
+# Python dili ile yazdığım Machine Learning alanında yaptığım çalışmalardır.
